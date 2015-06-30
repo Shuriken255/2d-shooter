@@ -6,3 +6,5 @@ WASD - Walking
 Left mouse button - shoot
 R - reload
 TAB - open/close shop/craft menu.
+
+WARNING! Game works only one Windows platform.
